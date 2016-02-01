@@ -1,0 +1,28 @@
+name: Nut Milk Bag
+favicon: null
+layout_spectrum: 0.7539994604885578
+typography_spectrum: 0.05723286350257695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7996937979478389
+  lightness: 0.6164124910719693
+  saturation: 0.8701398454140872
+  rhythmicContrast: 0.1020617806352675
+purpose: []
