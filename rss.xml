@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Nut Milk Bag]]></title>
         <description><![CDATA[Nut Milk Bag]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nut-milk-bag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 16:32:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 16:32:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nut-milk-bag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We also use these nut solids to add protein to baked goods and we need to say—chickens love them too.</p>]]></description>
+            <link>https://thegrid.ai/nut-milk-bag/ee66d25b-0cce-4221-8638-1b4c912bb1ce/index.html</link>
+            <guid isPermaLink="false">ee66d25b-0cce-4221-8638-1b4c912bb1ce</guid>
+            <pubDate>Mon, 01 Feb 2016 16:32:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Can a Nut Milk Bag be Used for Other Things Too?
 In a word: YES.
 These bags are widely used in water filtering, nut-milk filtering, juice filtering, soybean milk filtering, milk powder filtering, cheese making and even as a cold brew coffee filter. </p>]]></description>
-            <link>undefined02b23696-5ea2-4e06-bbd9-ec6e48429206/index.html</link>
+            <link>https://thegrid.ai/nut-milk-bag/02b23696-5ea2-4e06-bbd9-ec6e48429206/index.html</link>
             <guid isPermaLink="false">02b23696-5ea2-4e06-bbd9-ec6e48429206</guid>
             <pubDate>Mon, 01 Feb 2016 16:32:28 GMT</pubDate>
         </item>
